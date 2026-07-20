@@ -1,16 +1,16 @@
-# 🎓 College Student Management System
+# College Student Management System
 
 A simple Python-based console application that demonstrates the use of **custom modules**, **lists**, **tuples**, and **sets** to manage student records for a college.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project simulates a basic Student Management System where student information is stored and manipulated using Python's core data structures. The program is split into a **custom module** (`college.py`) that contains reusable functions, and a **main script** (`main.py`) that uses those functions to demonstrate various operations.
 
 ---
 
-## ✨ Features
+## Features
 
 | Data Structure | Operations Demonstrated |
 |---|---|
@@ -21,7 +21,7 @@ This project simulates a basic Student Management System where student informati
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 Student-Management-System/
 │
 │
@@ -32,7 +32,7 @@ Student-Management-System/
 └── README.md # Project documentation
 ---
 
-## 🧩 Module Functions — `college.py`
+## Module Functions — `college.py`
 
 | Function | Description |
 |---|---|
@@ -42,7 +42,7 @@ Student-Management-System/
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. **Clone the repository**
 ```bash
@@ -63,7 +63,7 @@ Student-Management-System/
 
 ---
 
-## 📋 Task Breakdown
+## Task Breakdown
 
 ### ✅ Task 1 — Custom Module
 Created `college.py` with three functions and imported it into `main.py` to display a welcome message, list all students, and count them.
@@ -82,7 +82,7 @@ Combines all the above into a single, clean summary output: welcome message, stu
 
 ---
 
-## 🖥️ Sample Output
+## Sample Output
 Welcome to the College Student Management System
 
 student list: ['Muhammad Ali', 'Sara', 'Fatima', 'Hassan', 'Zainab']
