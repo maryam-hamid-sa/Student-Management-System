@@ -2,8 +2,6 @@
 
 A simple Python-based console application that demonstrates the use of **custom modules**, **lists**, **tuples**, and **sets** to manage student records for a college.
 
-> Built as part of a Python Programming assignment (Week 5) — *Custom Modules, Lists, Tuples, and Sets*.
-
 ---
 
 ## 📌 Project Overview
@@ -102,13 +100,10 @@ Semester : 5
 Club set: {'Sports', 'Cricket', 'Music', 'Drama'}
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Language:** Python 3
 - **Concepts Used:** Modules, Lists, Tuples, Sets, Exception Handling
 
 ---
 
-## 📄 License
-
-This project is created for educational purposes as part of a college assignment.
