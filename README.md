@@ -1,5 +1,3 @@
-<img width="588" height="340" alt="images (1)" src="https://github.com/user-attachments/assets/cb1d0033-7f48-4fa3-8ca3-57b8a61c5a4c" />
-
 # College Student Management System
 
 A simple Python-based console application that demonstrates the use of **custom modules**, **lists**, **tuples**, and **sets** to manage student records for a college.
