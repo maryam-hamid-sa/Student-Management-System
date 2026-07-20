@@ -22,9 +22,7 @@ This project simulates a basic Student Management System where student informati
 ---
 
 ## Project Structure
-Student-Management-System/
-
-│
+Student-Management-System
 
 ├── college.py # Custom module with reusable function
 
