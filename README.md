@@ -83,12 +83,19 @@ Combines all the above into a single, clean summary output: welcome message, stu
 
 ## 🖥️ Sample Output
 Welcome to the College Student Management System
+
 student list: ['Muhammad Ali', 'Sara', 'Fatima', 'Hassan', 'Zainab']
+
 Total number of students: 5
+
 Student information
+
 Roll Number : 230
+
 Department : Computer Science
+
 Semester : 5
+
 Club set: {'Sports', 'Cricket', 'Music', 'Drama'}
 ---
 
